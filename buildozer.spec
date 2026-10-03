@@ -6,6 +6,7 @@ source.dir = .
 source.include_exts = py
 source.exclude_dirs = later
 version = 1.0
+p4a.branch = v2024.01.21
 requirements = python3,kivy==2.3.0,pyjnius,plyer
 orientation = portrait
 fullscreen = 0
